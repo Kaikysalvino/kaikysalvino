@@ -1,5 +1,5 @@
 ### SEJA BEM-VINDO(A) AO MEU REPOSITORIO🙂
-<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=008729"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=kaikysalvino&color=008729"><br>
 <div align="center">
   <a href="https://github.com/kaikyslavino">
   </a>
