@@ -16,5 +16,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" />
+   <img align="center" alt="IA" src="https://img.shields.io/badge/Haxe-EA8220.svg?style=for-the-badge&logo=Haxe&logoColor=white" />
 </div><br/>
-
