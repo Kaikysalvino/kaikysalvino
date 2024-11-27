@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](#)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](#)
 
-## Tecnologias que eu uso no meu dia
+## ⭐️ Hard Skills
 
 <div style="display: inline_block">
   <img align="center" alt="react.js" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
@@ -18,3 +18,5 @@
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" />
    <img align="center" alt="IA" src="https://img.shields.io/badge/Haxe-EA8220.svg?style=for-the-badge&logo=Haxe&logoColor=white" />
 </div><br/>
+
+💻 Desenvolvedor com mais de 5 anos de experiência.
